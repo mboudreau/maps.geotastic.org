@@ -3814,6 +3814,20 @@ var places = {
                 "detail": "Sackville, New Brunswick, Canada",
                 "id": "254"
             }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.067330, 12.863318
+                ]
+            },
+            "properties": {
+                "label": "Fucking, Austria",
+                "detail": "Fucking, Austria",
+                "id": "255"
+            }
         }
 
     ]
